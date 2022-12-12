@@ -1,0 +1,117 @@
+.body{
+    background-color: #A75D4D;
+}
+
+.navletra{
+    color: white;
+}
+
+.container{
+    width: 800px;
+    height: 800px;
+    border-radius: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child-element {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.imagen{
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.imagenqs{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+
+.imagenpr{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.bodyqs{
+    background-color: black;
+}
+
+.letraqs{
+    color: white;
+}
+
+.redes{
+    color: black;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px 0 38px 0;
+}
+
+.h3, h3{
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.containerq{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containermap{
+    width: 700px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerc{
+    padding-top: 200px;
+    width: 300px;
+    border-radius: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1ubi{
+    text-align: center;
+}
+
+.pubi{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.imgcon{
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+.h3con{
+    font-size: 30px;
+}
